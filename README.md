@@ -8,10 +8,11 @@ Dans **Lunar Quest**, vous incarnez un explorateur coincé dans une station aban
 
 - 🪐 Explorer le labyrinthe galactique
 - ⭐ Collecter tous les items disséminés dans la carte
-- 🚪 Activer le portail spatial (la sortie) une fois tous les items récupérés 🫁 Rejoindre la sortie avant de manquer d'oxygène
+- 🚪 Activer le portail spatial (la sortie) une fois tous les items récupérés
+- 🫁 Rejoindre la sortie avant de manquer d'oxygène
 
 ## 🕹️ Contrôles
 
-Flèches ➜ Déplacement
-H       ➜ Affiche ou masque le chemin le plus court vers la sortie (algorithme de pathfinding A*)
-ESC     ➜ Quitter
+- Flèches ➜ Déplacement
+- H       ➜ Affiche ou masque le chemin le plus court vers la sortie (algorithme de pathfinding A*)
+- ESC     ➜ Quitter
