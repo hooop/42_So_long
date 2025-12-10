@@ -1,4 +1,5 @@
-![Aperçu du jeu Lunar Quest](resources/lunar_quest.png)
+<img src="resources/lunar_quest.png" alt="Aperçu du jeu Lunar Quest" style="border:2px solid #4CAF50; border-radius:5px;" width="600">
+
 
 
 ## 🌙 Lunar Quest
