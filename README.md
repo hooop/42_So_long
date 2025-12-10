@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/hooop/42_So_long/refs/heads/main/resources/lunar_quest.png
+![Aperçu du jeu Lunar Quest](resources/lunar_quest.png)
 
 
 ## 🌙 Lunar Quest
