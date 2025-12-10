@@ -1,4 +1,5 @@
-<img src="resources/lunar_quest.png" alt="Aperçu du jeu Lunar Quest" style="border:10px solid #000; border-radius:5px;" width="800">
+![Aperçu du jeu Lunar Quest](resources/lunar_quest.png)
+
 
 
 
