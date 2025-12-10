@@ -1,11 +1,9 @@
-![Aperçu du jeu Lunar Quest](resources/lunar_quest.png)
-
-
-
 
 ## 🌙 Lunar Quest
 
 **Lunar Quest** est un jeu en 2D réalisé avec la MiniLibX dans le cadre du projet So Long de l'École 42. Le joueur évolue dans un labyrinthe galactique, doit récupérer des objets vitaux pour activer le portail spatial et l'atteindre avant de manquer d'oxygène.
+
+![Aperçu du jeu Lunar Quest](resources/lunar_quest.png)
 
 ## 🚀 Concept du jeu
 
