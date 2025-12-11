@@ -16,6 +16,6 @@ Dans **Lunar Quest**, vous incarnez un explorateur coincé dans une station aban
 
 ## Contrôles
 
-- Flèches ➜ Déplacement
-- H       ➜ Affiche ou masque le chemin le plus court vers la sortie (algorithme de pathfinding A*)
-- ESC     ➜ Quitter
+- Flèches : Déplacement
+- H       : Affiche ou masque le chemin le plus court vers la sortie (algorithme de pathfinding A*)
+- ESC     : Quitter
